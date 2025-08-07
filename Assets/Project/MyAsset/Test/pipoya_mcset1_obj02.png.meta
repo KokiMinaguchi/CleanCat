@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: bf1627d2d16164c4ca2908da39b7ca09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3081883429165889124
+    second: pipoya_mcset1_obj02_0
+  - first:
+      213: -6335140860556967916
+    second: pipoya_mcset1_obj02_1
+  - first:
+      213: -823088016373504507
+    second: pipoya_mcset1_obj02_2
+  - first:
+      213: 5800134451267669764
+    second: pipoya_mcset1_obj02_3
+  - first:
+      213: -6221619318278597715
+    second: pipoya_mcset1_obj02_4
+  - first:
+      213: 7650925300537149727
+    second: pipoya_mcset1_obj02_5
+  - first:
+      213: -1431917821244523743
+    second: pipoya_mcset1_obj02_6
+  - first:
+      213: 2074522922748985301
+    second: pipoya_mcset1_obj02_7
+  - first:
+      213: -7944347458150661790
+    second: pipoya_mcset1_obj02_8
+  - first:
+      213: -7313207371217974539
+    second: pipoya_mcset1_obj02_9
+  - first:
+      213: -5332568547096261140
+    second: pipoya_mcset1_obj02_10
+  - first:
+      213: -5195211264140639368
+    second: pipoya_mcset1_obj02_11
+  - first:
+      213: -308717709558549201
+    second: pipoya_mcset1_obj02_12
+  - first:
+      213: 4354477673243048251
+    second: pipoya_mcset1_obj02_13
+  - first:
+      213: 4214793553015605176
+    second: pipoya_mcset1_obj02_14
+  - first:
+      213: 8901346240138726205
+    second: pipoya_mcset1_obj02_15
+  - first:
+      213: 4399435148163417270
+    second: pipoya_mcset1_obj02_16
+  - first:
+      213: 8363484165812031742
+    second: pipoya_mcset1_obj02_17
+  - first:
+      213: 6883577769959537254
+    second: pipoya_mcset1_obj02_18
+  - first:
+      213: -57668576900847653
+    second: pipoya_mcset1_obj02_19
+  - first:
+      213: -3234093251210755212
+    second: pipoya_mcset1_obj02_20
+  - first:
+      213: -5796934214064802084
+    second: pipoya_mcset1_obj02_21
+  - first:
+      213: 3657413641487972872
+    second: pipoya_mcset1_obj02_22
+  - first:
+      213: -5816456325311186718
+    second: pipoya_mcset1_obj02_23
+  - first:
+      213: 5880398662955132944
+    second: pipoya_mcset1_obj02_24
+  - first:
+      213: 7000987406983942729
+    second: pipoya_mcset1_obj02_25
+  - first:
+      213: -3609491005757578810
+    second: pipoya_mcset1_obj02_26
+  - first:
+      213: -7341885091277269961
+    second: pipoya_mcset1_obj02_27
+  - first:
+      213: 4045710057378218668
+    second: pipoya_mcset1_obj02_28
+  - first:
+      213: 4390217202466101287
+    second: pipoya_mcset1_obj02_29
+  - first:
+      213: -5426316980378014946
+    second: pipoya_mcset1_obj02_30
+  - first:
+      213: -5235481029142673587
+    second: pipoya_mcset1_obj02_31
+  - first:
+      213: 152142903085539250
+    second: pipoya_mcset1_obj02_32
+  - first:
+      213: -2755776923296033785
+    second: pipoya_mcset1_obj02_33
+  - first:
+      213: 8894407719987237647
+    second: pipoya_mcset1_obj02_34
+  - first:
+      213: -4886272512543032937
+    second: pipoya_mcset1_obj02_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466789a76ac05ca20800000000000000
+      internalID: 3081883429165889124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 192
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410807cc3fe0518a0800000000000000
+      internalID: -6335140860556967916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 192
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5062d2d5fcdc394f0800000000000000
+      internalID: -823088016373504507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 192
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f80519d873e7050800000000000000
+      internalID: 5800134451267669764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3db4e813e58a9a0800000000000000
+      internalID: -6221619318278597715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19c095460c8d2a60800000000000000
+      internalID: 7650925300537149727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 194
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b3b25045ec02ce0800000000000000
+      internalID: -1431917821244523743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 194
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfbbd06b9f2acc10800000000000000
+      internalID: 2074522922748985301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26107a8e31200c190800000000000000
+      internalID: -7944347458150661790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fac8c594a4428a90800000000000000
+      internalID: -7313207371217974539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced08e9d829eef5b0800000000000000
+      internalID: -5332568547096261140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8730ac371e6e6e7b0800000000000000
+      internalID: -5195211264140639368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 161
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25f3e9f0e637bbf0800000000000000
+      internalID: -308717709558549201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3975007f563e6c30800000000000000
+      internalID: 4354477673243048251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 160
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b70a11d764fd7a30800000000000000
+      internalID: 4214793553015605176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_15
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 160
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b4a3a7e3fe78b70800000000000000
+      internalID: 8901346240138726205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b406a245feed0d30800000000000000
+      internalID: 4399435148163417270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 129
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef094d38980111470800000000000000
+      internalID: 8363484165812031742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ab632d281678f50800000000000000
+      internalID: 6883577769959537254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd76f1f1cbe133ff0800000000000000
+      internalID: -57668576900847653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473481fa2513e13d0800000000000000
+      internalID: -3234093251210755212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6fb58bb072d8fa0800000000000000
+      internalID: -5796934214064802084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 127
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80afe81445eb1c230800000000000000
+      internalID: 3657413641487972872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8b04ef9cbc74fa0800000000000000
+      internalID: -5816456325311186718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0186f13ad6f5b9150800000000000000
+      internalID: 5880398662955132944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 96
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942d24e24f0882160800000000000000
+      internalID: 7000987406983942729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 96
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c12adddd0388edc0800000000000000
+      internalID: -3609491005757578810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 96
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7349ea098626c1a90800000000000000
+      internalID: -7341885091277269961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 96
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca20142bcdf352830800000000000000
+      internalID: 4045710057378218668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_29
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 96
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7281dc7094f2dec30800000000000000
+      internalID: 4390217202466101287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 96
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1be5e9c479d1b4b0800000000000000
+      internalID: -5426316980378014946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_31
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 96
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4787a52eb5d757b0800000000000000
+      internalID: -5235481029142673587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf928d0a258c1200800000000000000
+      internalID: 152142903085539250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70498be2d7381c9d0800000000000000
+      internalID: -2755776923296033785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03d45d52b84f6b70800000000000000
+      internalID: 8894407719987237647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya_mcset1_obj02_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799fd16d909703cb0800000000000000
+      internalID: -4886272512543032937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pipoya_mcset1_obj02_0: 3081883429165889124
+      pipoya_mcset1_obj02_1: -6335140860556967916
+      pipoya_mcset1_obj02_10: -5332568547096261140
+      pipoya_mcset1_obj02_11: -5195211264140639368
+      pipoya_mcset1_obj02_12: -308717709558549201
+      pipoya_mcset1_obj02_13: 4354477673243048251
+      pipoya_mcset1_obj02_14: 4214793553015605176
+      pipoya_mcset1_obj02_15: 8901346240138726205
+      pipoya_mcset1_obj02_16: 4399435148163417270
+      pipoya_mcset1_obj02_17: 8363484165812031742
+      pipoya_mcset1_obj02_18: 6883577769959537254
+      pipoya_mcset1_obj02_19: -57668576900847653
+      pipoya_mcset1_obj02_2: -823088016373504507
+      pipoya_mcset1_obj02_20: -3234093251210755212
+      pipoya_mcset1_obj02_21: -5796934214064802084
+      pipoya_mcset1_obj02_22: 3657413641487972872
+      pipoya_mcset1_obj02_23: -5816456325311186718
+      pipoya_mcset1_obj02_24: 5880398662955132944
+      pipoya_mcset1_obj02_25: 7000987406983942729
+      pipoya_mcset1_obj02_26: -3609491005757578810
+      pipoya_mcset1_obj02_27: -7341885091277269961
+      pipoya_mcset1_obj02_28: 4045710057378218668
+      pipoya_mcset1_obj02_29: 4390217202466101287
+      pipoya_mcset1_obj02_3: 5800134451267669764
+      pipoya_mcset1_obj02_30: -5426316980378014946
+      pipoya_mcset1_obj02_31: -5235481029142673587
+      pipoya_mcset1_obj02_32: 152142903085539250
+      pipoya_mcset1_obj02_33: -2755776923296033785
+      pipoya_mcset1_obj02_34: 8894407719987237647
+      pipoya_mcset1_obj02_35: -4886272512543032937
+      pipoya_mcset1_obj02_4: -6221619318278597715
+      pipoya_mcset1_obj02_5: 7650925300537149727
+      pipoya_mcset1_obj02_6: -1431917821244523743
+      pipoya_mcset1_obj02_7: 2074522922748985301
+      pipoya_mcset1_obj02_8: -7944347458150661790
+      pipoya_mcset1_obj02_9: -7313207371217974539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
