@@ -6,6 +6,13 @@ TagManager:
   tags:
   - Trash
   - Treasure
+  - Enemy
+  - Item
+  - CutObject
+  - Coin
+  - VacuumObject
+  - Graffiti
+  - Dirt
   layers:
   - Default
   - TransparentFX
@@ -13,10 +20,10 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - Terrain
+  - CameraCollision
+  - Player
+  - DigBlock
   - 
   - 
   - 
